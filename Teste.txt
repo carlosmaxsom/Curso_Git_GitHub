@@ -1,0 +1,4 @@
+Primeiro Repo
+
+Git init -- Inicia o Repositorio.
+Apagar a pasta '.git' faz com que o versionamento pare.
