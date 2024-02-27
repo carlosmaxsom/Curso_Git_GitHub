@@ -1,6 +1,0 @@
-Primeiro Repo
-
-Git init -- Inicia o Repositorio.
-Apagar a pasta '.git' faz com que o versionamento pare.
-git status -- Mostra as diferenças entre o repositório local e remoto
-git add -- Coloca os arquivos que não estavam sendo versionados para ser versionados
